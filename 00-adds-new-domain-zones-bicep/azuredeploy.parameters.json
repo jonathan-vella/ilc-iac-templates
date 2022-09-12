@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "adminUsername": {
-        "value": 
+        "value": "null"
       },
       "adminPassword": {
-        "value": 
+        "value": "null"
       },
       "dnsPrefix": {
-        "value": 
+        "value": "null"
       },
       "domainName": {
-        "value": 
+        "value": "null"
       },
       "location": {
-        "value": 
+        "value": "null"
       },
       "_artifactsLocation": {
           "value": "https://raw.githubusercontent.com/jonathan-vella/ilc-iac-templates/main/00-adds-new-domain-zones-bicep"
