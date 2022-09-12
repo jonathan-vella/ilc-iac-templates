@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "adminUsername": {
-        "value": "azureuser"
+        "value": []
       },
       "adminPassword": {
-        "value": "AzureDave01!!"
+        "value": []
       },
       "dnsPrefix": {
-        "value": "azinsiderdmo"
+        "value": []
       },
       "domainName": {
-        "value": "azinsider.local"
+        "value": []
       },
       "location": {
-        "value": "eastus"
+        "value": []
       },
       "_artifactsLocation": {
-          "value": "https://raw.githubusercontent.com/daveRendon/azure-quickstart-templates/master/application-workloads/active-directory/active-directory-new-domain-ha-2-dc-zones/"
+          "value": "https://raw.githubusercontent.com/jonathan-vella/ilc-iac-templates/main/00-adds-new-domain-zones-bicep"
       }
     }
   }
