@@ -19,6 +19,7 @@
           "southeastasia",
           "ukwest",
           "westus2",
+          "swedencentral",
           "westeurope"
         ],
         "metadata": {
@@ -69,7 +70,7 @@
     "variables": {
       "imagePublisher": "MicrosoftWindowsServer",
       "imageOffer": "WindowsServer",
-      "imageSKU": "2019-Datacenter",
+      "imageSKU": "2022-Datacenter",
       "virtualNetworkName": "adVNET",
       "virtualNetworkAddressRange": "10.0.0.0/16",
       "adSubnetName": "adSubnet",
