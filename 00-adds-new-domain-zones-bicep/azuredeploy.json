@@ -44,7 +44,7 @@
       },
       "vmSize": {
         "type": "string",
-        "defaultValue": "Standard_D2s_v3",
+        "defaultValue": "Standard_B4ms",
         "metadata": {
           "description": "Size of the VM for the controller"
         }
