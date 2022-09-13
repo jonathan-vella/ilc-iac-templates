@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "adminUsername": {
-        "value": "null"
+        "value": "parameter_stored_in_AKV"
       },
       "adminPassword": {
-        "value": "null"
+        "value": "parameter_stored_in_AKV"
       },
       "dnsPrefix": {
         "value": "null"
@@ -15,7 +15,7 @@
         "value": "null"
       },
       "location": {
-        "value": "null"
+        "value": "[resourceGroup().location]"
       },
       "_artifactsLocation": {
           "value": "https://raw.githubusercontent.com/jonathan-vella/ilc-iac-templates/main/00-adds-new-domain-zones-bicep"
